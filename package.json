@@ -1,0 +1,19 @@
+{
+  "name": "fullscreenimage-cordova-plugin",
+  "version": "1.0.0",
+  "description": "Full Screen Image Plugin Cordova iOS/Android =================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymilian-majer/FullScreenImage-Cordova-Plugin.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/maksymilian-majer/FullScreenImage-Cordova-Plugin/issues"
+  },
+  "homepage": "https://github.com/maksymilian-majer/FullScreenImage-Cordova-Plugin#readme"
+}
